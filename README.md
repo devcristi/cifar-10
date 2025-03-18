@@ -59,7 +59,10 @@ This script will:
 - **LICENSE:** Project license information.
 
 ## Results
-Upon running the training script, the model will output performance metrics such as accuracy and loss. Update this section with specific metrics as they become available from your experiments.
+Upon running the training script, the model will output performance metrics such as accuracy and loss. My maximum accuracy was 87.5%.
+
+##Note
+Since the model is light, there is no need for having a dedicated GPU. In this case, you can use Google Collab for best results.
 
 ## Contributing
 Contributions are welcome! Feel free to open an issue or submit a pull request with suggestions, bug fixes, or improvements.
